@@ -1,4 +1,4 @@
-@@||roblox.com^$client=kids
-@@||appsflyer.com^$client=kids
-@@||rappsflyersdk.com^$client=kids
-@@||rbxcdn.com^$client=kids
+@@||roblox.com^$ctag=user_child
+@@||appsflyer.com^$ctag=user_child
+@@||rappsflyersdk.com^$ctag=user_child
+@@||rbxcdn.com^$ctag=user_child
