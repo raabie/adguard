@@ -1,4 +1,4 @@
-@@||youtube.com^$client=kids    
-@@||googlevideo.com^$client=kids
-@@||ytimg.com^$client=kids
-@@||yt3.ggpht.com^$client=kids
+@@||youtube.com^$ctag=user_child   
+@@||googlevideo.com^$ctag=user_child
+@@||ytimg.com^$ctag=user_child
+@@||yt3.ggpht.com^$ctag=user_child
