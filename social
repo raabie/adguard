@@ -2,3 +2,4 @@
 @@||gateway.facebook.com^$ctag=user_child
 @@||c10r.facebook.com^$ctag=user_child
 @@||fbcdn.net^$ctag=user_child
+@@||lookaside.facebook.com^$ctag=user_child
