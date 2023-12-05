@@ -1,2 +1,5 @@
 @@||google.com^$ctag=user_child
 @@||google.ca^$ctag=user_child
+@@||gstatic.com^$ctag=user_child
+@@||googleapis.com^$ctag=user_child
+@@||googleusercontent.com^$ctag=user_child
