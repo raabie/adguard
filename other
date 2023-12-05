@@ -3,3 +3,5 @@
 @@||gstatic.com^$ctag=user_child
 @@||googleapis.com^$ctag=user_child
 @@||googleusercontent.com^$ctag=user_child
+
+@@||firefox.settings.services.mozilla.com^$ctag=user_child
