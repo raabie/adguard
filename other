@@ -34,3 +34,9 @@
 @@||cxcs.microsoft.net^$ctag=user_child
 @@||purchase.mp.microsoft.com^$ctag=user_child
 @@||oneocsp.microsoft.com^$ctag=user_child
+@@||ocsp.pki.goog^$ctag=user_child
+@@||www.msftconnecttest.com^$ctag=user_child
+@@||mp.microsoft.com^$ctag=user_child
+@@||cdp.microsoft.com^$ctag=user_child
+
+
