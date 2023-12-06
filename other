@@ -39,4 +39,7 @@
 @@||mp.microsoft.com^$ctag=user_child
 @@||cdp.microsoft.com^$ctag=user_child
 
+@@||graph.facebook.com^$important
+@@||graph.instagram.com^$important
+
 
