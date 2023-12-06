@@ -10,3 +10,9 @@
 
 @@||apple.com^$ctag=user_child
 @@||icloud.com^$ctag=user_child
+@@||aaplimg.com^$ctag=user_child
+@@||apple-dns.net^$ctag=user_child
+@@||cdn-apple.com^$ctag=user_child
+@@||akamaiedge.net^$ctag=user_child
+@@||mzstatic.com^$ctag=user_child
+@@||akadns.net^$ctag=user_child
