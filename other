@@ -19,3 +19,7 @@
 @@||akamai.net^$ctag=user_child
 @@||digicert.com^$ctag=user_child
 @@||icloud-content.com^$ctag=user_child
+
+@@||wns.windows.com^$ctag=user_child
+@@||storeedgefd.dsx.mp.microsoft.com^$ctag=user_child
+
