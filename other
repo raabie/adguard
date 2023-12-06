@@ -23,3 +23,7 @@
 @@||wns.windows.com^$ctag=user_child
 @@||storeedgefd.dsx.mp.microsoft.com^$ctag=user_child
 
+@@||store-images.microsoft.com^$ctag=user_child
+@@||displaycatalog.mp.microsoft.com^$ctag=user_child
+@@||in.appcenter.ms^$ctag=user_child
+@@||asureedge.net^$ctag=user_child
