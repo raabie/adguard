@@ -1,43 +1,43 @@
-@@||google.com^$ctag=user_child
-@@||google.ca^$ctag=user_child
-@@||gstatic.com^$ctag=user_child
-@@||googleapis.com^$ctag=user_child
-@@||googleusercontent.com^$ctag=user_child
+@@||google.com^$ctag=user_child|device_tv
+@@||google.ca^$ctag=user_child|device_tv
+@@||gstatic.com^$ctag=user_child|device_tv
+@@||googleapis.com^$ctag=user_child|device_tv
+@@||googleusercontent.com^$ctag=user_child|device_tv
 
-@@||firefox.settings.services.mozilla.com^$ctag=user_child
+@@||firefox.settings.services.mozilla.com^$ctag=user_child|device_tv
 
-@@||yrdsb.ca^$ctag=user_child
+@@||yrdsb.ca^$ctag=user_child|device_tv
 
-@@||apple.com^$ctag=user_child
-@@||icloud.com^$ctag=user_child
-@@||aaplimg.com^$ctag=user_child
-@@||apple-dns.net^$ctag=user_child
-@@||cdn-apple.com^$ctag=user_child
-@@||akamaiedge.net^$ctag=user_child
-@@||mzstatic.com^$ctag=user_child
-@@||akadns.net^$ctag=user_child
-@@||akamai.net^$ctag=user_child
-@@||digicert.com^$ctag=user_child
-@@||icloud-content.com^$ctag=user_child
+@@||apple.com^$ctag=user_child|device_tv
+@@||icloud.com^$ctag=user_child|device_tv
+@@||aaplimg.com^$ctag=user_child|device_tv
+@@||apple-dns.net^$ctag=user_child|device_tv
+@@||cdn-apple.com^$ctag=user_child|device_tv
+@@||akamaiedge.net^$ctag=user_child|device_tv
+@@||mzstatic.com^$ctag=user_child|device_tv
+@@||akadns.net^$ctag=user_child|device_tv
+@@||akamai.net^$ctag=user_child|device_tv
+@@||digicert.com^$ctag=user_child|device_tv
+@@||icloud-content.com^$ctag=user_child|device_tv
 
-@@||wns.windows.com^$ctag=user_child
-@@||storeedgefd.dsx.mp.microsoft.com^$ctag=user_child
+@@||wns.windows.com^$ctag=user_child|device_tv
+@@||storeedgefd.dsx.mp.microsoft.com^$ctag=user_child|device_tv
 
-@@||store-images.microsoft.com^$ctag=user_child
-@@||displaycatalog.mp.microsoft.com^$ctag=user_child
-@@||in.appcenter.ms^$ctag=user_child
-@@||asureedge.net^$ctag=user_child
-@@||windowsupdate.com^$ctag=user_child
-@@||core.windows.net^$ctag=user_child
-@@||s-microsoft.com^$ctag=user_child
-@@||services.microsoft.com^$ctag=user_child
-@@||cxcs.microsoft.net^$ctag=user_child
-@@||purchase.mp.microsoft.com^$ctag=user_child
-@@||oneocsp.microsoft.com^$ctag=user_child
-@@||ocsp.pki.goog^$ctag=user_child
-@@||www.msftconnecttest.com^$ctag=user_child
-@@||mp.microsoft.com^$ctag=user_child
-@@||cdp.microsoft.com^$ctag=user_child
+@@||store-images.microsoft.com^$ctag=user_child|device_tv
+@@||displaycatalog.mp.microsoft.com^$ctag=user_child|device_tv
+@@||in.appcenter.ms^$ctag=user_child|device_tv
+@@||asureedge.net^$ctag=user_child|device_tv
+@@||windowsupdate.com^$ctag=user_child|device_tv
+@@||core.windows.net^$ctag=user_child|device_tv
+@@||s-microsoft.com^$ctag=user_child|device_tv
+@@||services.microsoft.com^$ctag=user_child|device_tv
+@@||cxcs.microsoft.net^$ctag=user_child|device_tv
+@@||purchase.mp.microsoft.com^$ctag=user_child|device_tv
+@@||oneocsp.microsoft.com^$ctag=user_child|device_tv
+@@||ocsp.pki.goog^$ctag=user_child|device_tv
+@@||www.msftconnecttest.com^$ctag=user_child|device_tv
+@@||mp.microsoft.com^$ctag=user_child|device_tv
+@@||cdp.microsoft.com^$ctag=user_child|device_tv
 
 @@||graph.facebook.com^$important
 @@||graph.instagram.com^$important
@@ -47,13 +47,13 @@
 @@||crdfpaapv3sm0.tdbfg.com^$important
 @@||crdfpaapv96v0.tdbfg.com^$important
 
-@@||capcut.com^$ctag=user_child
-@@||ibytedtos.com^$ctag=user_child
-@@||bytedapm.com^$ctag=user_child
-@@||byteoversea.com^$ctag=user_child
-@@||duolingo.com^$ctag=user_child
-@@||recaptcha.net^$ctag=user_child
-@@||cloudfront.net^$ctag=user_child
+@@||capcut.com^$ctag=user_child|device_tv
+@@||ibytedtos.com^$ctag=user_child|device_tv
+@@||bytedapm.com^$ctag=user_child|device_tv
+@@||byteoversea.com^$ctag=user_child|device_tv
+@@||duolingo.com^$ctag=user_child|device_tv
+@@||recaptcha.net^$ctag=user_child|device_tv
+@@||cloudfront.net^$ctag=user_child|device_tv
 
 @@||troypoint.com^$important
 @@||torrentfreak.com^$important
