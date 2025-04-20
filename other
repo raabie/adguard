@@ -18,7 +18,7 @@
 
 ! @@||apple.com^$ctag=user_child|device_tv
 @@||icloud.com^$ctag=user_child|device_tv
-@@||aaplimg.com^$ctag=user_child|device_tv
+! @@||aaplimg.com^$ctag=user_child|device_tv
 ! @@||apple-dns.net^$ctag=user_child|device_tv
 ! @@||cdn-apple.com^$ctag=user_child|device_tv
 @@||akamaiedge.net^$ctag=user_child|device_tv
@@ -177,7 +177,7 @@
 @@||tracker.flightview.com^$ctag=user_child
 @@||applovin.com^$ctag=user_child
 @@||oca.nflxvideo.net^$ctag=user_child
-@@||apis.apple.map.fastly.net^$ctag=user_child
+! @@||apis.apple.map.fastly.net^$ctag=user_child
 @@||ipv4only.arpa^$ctag=user_child
 @@||nflxso.net^$ctag=user_child
 @@||local^$ctag=user_child
