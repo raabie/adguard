@@ -16,17 +16,10 @@
 
 @@||yrdsb.ca^$ctag=user_child|device_tv
 
-! @@||apple.com^$ctag=user_child|device_tv
-! @@||icloud.com^$ctag=user_child|device_tv
-! @@||aaplimg.com^$ctag=user_child|device_tv
-! @@||apple-dns.net^$ctag=user_child|device_tv
-! @@||cdn-apple.com^$ctag=user_child|device_tv
 @@||akamaiedge.net^$ctag=user_child|device_tv
 @@||mzstatic.com^$ctag=user_child|device_tv
-! @@||akadns.net^$ctag=user_child|device_tv
 @@||akamai.net^$ctag=user_child|device_tv
 @@||digicert.com^$ctag=user_child|device_tv
-! @@||icloud-content.com^$ctag=user_child|device_tv
 
 @@||wns.windows.com^$ctag=user_child|device_tv
 @@||storeedgefd.dsx.mp.microsoft.com^$ctag=user_child|device_tv
@@ -47,14 +40,11 @@
 @@||mp.microsoft.com^$ctag=user_child|device_tv
 @@||cdp.microsoft.com^$ctag=user_child|device_tv
 
-
-
 @@||ibytedtos.com^$ctag=user_child|device_tv
 @@||bytedapm.com^$ctag=user_child|device_tv
 @@||byteoversea.com^$ctag=user_child|device_tv
 @@||duolingo.com^$ctag=user_child|device_tv
 @@||recaptcha.net^$ctag=user_child|device_tv
-! @@||cloudfront.net^$ctag=user_child|device_tv
 
 @@||troypoint.com^$ctag=user_child
 @@||torrentfreak.com^$ctag=user_child
@@ -95,7 +85,6 @@
 @@||cdn.dynamicyield.com^$ctag=user_child
 @@||api.bluecore.com^$ctag=user_child
 @@||fitbit.com^$ctag=user_child
-! @@||safebrowsing.apple.com^$ctag=user_child
 @@||fitbit.com.cdn.cloudflare.net^$ctag=user_child
 @@||wetransfer.com^$ctag=user_child
 @@||wetransfer.net^$ctag=user_child
@@ -111,7 +100,6 @@
 @@||230863-hvw-rcdsb-on-ca.esolg.com^$ctag=user_child
 @@||professorjamz.com^$ctag=user_child
 @@||cloudfront.net^$ctag=user_child
-! @@||apple.sjv.io^$ctag=user_child
 
 @@||\(null\).8.229.212.10.in-addr.arpa^$important
 @@||norahr.com^$ctag=user_child|device_tv
@@ -168,7 +156,6 @@
 @@||apps.identrust.com^$ctag=user_child
 @@||traefik-geo.plex.bz^$ctag=user_child
 @@||remote-data.urbanairship.com^$ctag=user_child
-! @@||ca.iadsdk.apple.com^$ctag=user_child
 @@||api.amplitude.com^$ctag=user_child
 @@||device-api.urbanairship.com^$ctag=user_child
 @@||conversions.appsflyer.com^$ctag=user_child
@@ -177,7 +164,6 @@
 @@||tracker.flightview.com^$ctag=user_child
 @@||applovin.com^$ctag=user_child
 @@||oca.nflxvideo.net^$ctag=user_child
-! @@||apis.apple.map.fastly.net^$ctag=user_child
 @@||ipv4only.arpa^$ctag=user_child
 @@||nflxso.net^$ctag=user_child
 @@||local^$ctag=user_child
@@ -267,14 +253,9 @@
 @@||14.thxmachine50.online^$ctag=user_child
 @@||19.thxmachine50.online^$ctag=user_child
 @@||21.thxmachine50.online^$ctag=user_child
-! @@||ca.iadsdk.apple.com^$ctag=user_child
 @@||www.code.org^$ctag=user_child
 @@||code.org^$ctag=user_child
 @@||olg.ca^$ctag=user_child
-! @@||probe.icloud.com^$ctag=user_child
-! @@||cstat.cdn-apple.com^$ctag=user_child
-! @@||xp.apple.com^$ctag=user_child
-! @@||iadsdk.apple.com^$ctag=user_child
 @@||gcdsdk.appsflyer.com^$ctag=user_child
 @@||api.onesignal.com^$ctag=user_child
 @@||remote.rzone.co^$ctag=user_child
@@ -304,7 +285,6 @@
 @@||assets-sports-gcp.thescore.com.cdn.cloudflare.net^$ctag=user_child
 @@||rich-content.thescore.com^$ctag=user_child
 @@||assets-cms.thescore.com^$ctag=user_child
-! @@||token.safebrowsing.apple^$ctag=user_child
 @@||api.giphy.com^$ctag=user_child
 @@||ocsp.godaddy.com^$ctag=user_child
 @@||wc4.net^$ctag=user_child
@@ -473,18 +453,11 @@
 @@||kahoot.com^$ctag=user_child
 @@||assets-cdn.kahoot.it^$ctag=user_child
 @@||kahoot.it^$ctag=user_child
-! @@||xp.apple.com^$important
-! @@||iadsdk.apple.com^$important
-! @@||cf.iadsdk.apple.com^$important
-! @@||cstat.cdn-apple.com^$important
-! @@||fbs.smoot.apple.com^$important
-! @@||xp.itunes-apple.com.akadns.net^$important
-! @@||partiality.itunes.apple.com^$important
 @@||auth.split.io^$important
 @@||sdk.split.io^$important
 @@||rogerscommunicationspartnership.data.adobedc.net^$important
 @@||stats.sportsnet.ca^$important
-
+@@||cloudfront.net^$ctag=user_child|device_tv
 @@||use.typekit.net^$ctag=user_child
 @@||static.chartbeat.com^$ctag=user_child
 @@||stats-api.sportsnet.ca^$ctag=user_child
