@@ -19,11 +19,11 @@
 @@||apple.com^$ctag=user_child|device_tv
 @@||icloud.com^$ctag=user_child|device_tv
 @@||aaplimg.com^$ctag=user_child|device_tv
-@@||apple-dns.net^$ctag=user_child|device_tv
+! @@||apple-dns.net^$ctag=user_child|device_tv
 @@||cdn-apple.com^$ctag=user_child|device_tv
 @@||akamaiedge.net^$ctag=user_child|device_tv
 @@||mzstatic.com^$ctag=user_child|device_tv
-@@||akadns.net^$ctag=user_child|device_tv
+! @@||akadns.net^$ctag=user_child|device_tv
 @@||akamai.net^$ctag=user_child|device_tv
 @@||digicert.com^$ctag=user_child|device_tv
 @@||icloud-content.com^$ctag=user_child|device_tv
@@ -478,7 +478,7 @@
 @@||cf.iadsdk.apple.com^$important
 @@||cstat.cdn-apple.com^$important
 @@||fbs.smoot.apple.com^$important
-@@||xp.itunes-apple.com.akadns.net^$important
+! @@||xp.itunes-apple.com.akadns.net^$important
 @@||partiality.itunes.apple.com^$important
 @@||auth.split.io^$important
 @@||sdk.split.io^$important
