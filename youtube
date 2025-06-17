@@ -1,4 +1,4 @@
-@@||youtube.com^$ctag=user_child   
-@@||googlevideo.com^$ctag=user_child
-@@||ytimg.com^$ctag=user_child
-@@||yt3.ggpht.com^$ctag=user_child
+@@||youtube.com^$ctag=user_child|device_tv
+@@||googlevideo.com^$ctag=user_child|device_tv
+@@||ytimg.com^$ctag=user_child|device_tv
+@@||yt3.ggpht.com^$ctag=user_child|device_tv
