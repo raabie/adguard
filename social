@@ -1,9 +1,9 @@
-@@||api.facebook.com^$ctag=user_child   
-@@||gateway.facebook.com^$ctag=user_child
-@@||c10r.facebook.com^$ctag=user_child
-@@||fbcdn.net^$ctag=user_child
-@@||lookaside.facebook.com^$ctag=user_child
+@@||api.facebook.com^$ctag=user_child|device_tv
+@@||gateway.facebook.com^$ctag=user_child|device_tv
+@@||c10r.facebook.com^$ctag=user_child|device_tv
+@@||fbcdn.net^$ctag=user_child|device_tv
+@@||lookaside.facebook.com^$ctag=user_child|device_tv
 
-@@||whatsapp.net^$ctag=user_child
-@@||graph.whatsapp.com^$ctag=user_child
-@@||whatsapp.com^$ctag=user_child
+@@||whatsapp.net^$ctag=user_child|device_tv
+@@||graph.whatsapp.com^$ctag=user_child|device_tv
+@@||whatsapp.com^$ctag=user_child|device_tv
