@@ -8,3 +8,7 @@
 @@||yandex.net^$ctag=user_child
 @@||yandex.com^$ctag=user_child
 @@||yastatic.net^$ctag=user_child
+@@||roblox-api.arkoselabs.com^$ctag=user_child
+@@||roblox-css.cachefly.net^$ctag=user_child
+@@||roblox-api.arkoselabs.com.cdn.cloudflare.net^$ctag=user_child
+@@||ecsv2.roblox.com^$ctag=user_child
