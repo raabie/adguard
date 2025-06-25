@@ -106,7 +106,7 @@
 @@||zoeyr.com^$ctag=user_child|device_tv
 @@||rachelr.ca^$ctag=user_child|device_tv
 @@||go.shop.app^$ctag=user_child|device_tv
-@@||netflix.com^$ctag=user_child|device_tv
+@@||netflix.com^$ctag=device_tv
 @@||amazonvideo.com^$ctag=user_child|device_tv
 
 @@||assets.nflxext.com^$ctag=user_child
@@ -184,9 +184,6 @@
 @@||in2-gw2-01-3d6c3051.eastus2.cloudapp.azure.com^$ctag=user_child
 @@||cdn.tagcommander.com^$ctag=user_child
 @@||cdn.quantummetric.com^$ctag=user_child
-@@||roblox-api.arkoselabs.com^$ctag=user_child
-@@||roblox-css.cachefly.net^$ctag=user_child
-@@||roblox-api.arkoselabs.com.cdn.cloudflare.net^$ctag=user_child
 @@||js.stripe.com^$ctag=user_child
 @@||fp2e7a.wpc.phicdn.net^$ctag=user_child
 @@||apiproxy-device-prod-nlb-4-3e94f3637ba3def3.elb.us-east-2.amazonaws.com^$ctag=user_child
@@ -248,7 +245,6 @@
 @@||assets.nflxext.com^$ctag=user_child
 @@||yandex.ru^$ctag=user_child
 @@||ocsp.usertrust.com^$ctag=user_child
-@@||ecsv2.roblox.com^$ctag=user_child
 @@||rbxcdn.com.edgesuite.net^$ctag=user_child
 @@||14.thxmachine50.online^$ctag=user_child
 @@||19.thxmachine50.online^$ctag=user_child
