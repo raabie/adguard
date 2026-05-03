@@ -3,3 +3,6 @@
 @@||msync.zoho.com^$ctag=user_child
 @@||yrdsb.ca^$ctag=user_child
 @@||local^$important
+@@||mozilla.cloudflare-dns.com^$ctag=user_child
+@@||cdn.honey.io^^$ctag=user_child
+@@||mailwsorg.zoho.com^$ctag=user_child
