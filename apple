@@ -54,4 +54,5 @@
 @@||cstat.cdn-apple.com^$ctag=user_child
 @@||tools.applemediaservices.com^$ctag=user_child
 @@||xp-cdn-lb.itunes-apple.com.akadns.net^$ctag=user_child
-
+@@||mzstatic.com^$ctag=user_child
+@@||appsflyersdk.com^$ctag=user_child
