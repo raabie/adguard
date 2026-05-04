@@ -16,3 +16,7 @@
 @@||passepartoutvpn.app^$ctag=user_child
 @@||github.io^$ctag=user_child
 @@||gspe1-ssl.ls.apple.com.edgesuite.net^$ctag=user_child
+@@||cp4.cloudflare.com^$ctag=user_child
+@@||in-addr.arpa^$ctag=user_child
+@@||akamai.net^$ctag=user_child
+@@||zoho.com^$ctag=user_child
