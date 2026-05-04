@@ -12,5 +12,7 @@
 @@||a708.dsct.akamai.net^$ctag=user_child
 @@||akamai.net^$ctag=user_child
 @@||akamaiedge.net^$ctag=user_child
-@@||api.github.com^$ctag=user_child
+@@||github.com^$ctag=user_child
 @@||passepartoutvpn.app^$ctag=user_child
+@@||github.io^$ctag=user_child
+@@||gspe1-ssl.ls.apple.com.edgesuite.net^$ctag=user_child
