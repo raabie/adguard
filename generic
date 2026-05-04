@@ -11,3 +11,6 @@
 @@||mobile-data.onetrust.io^$ctag=user_child
 @@||a708.dsct.akamai.net^$ctag=user_child
 @@||akamai.net^$ctag=user_child
+@@||akamaiedge.net^$ctag=user_child
+@@||api.github.com^$ctag=user_child
+@@||passepartoutvpn.app^$ctag=user_child
