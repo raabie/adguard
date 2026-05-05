@@ -22,3 +22,15 @@
 @@||akamaiedge.net^$ctag=user_child
 @@||digicert.com^$ctag=user_child
 @@||assets.adobedtm.com^$ctag=user_child
+@@||ca.iadsdk.apple.com^$important
+@@||tiles.immich.cloud^$important
+@@||ocsp.digicert.com^$important
+@@||web.facebook.com^$important
+@@||api.themoviedb.org^$important
+@@||cmc.exchange-cdn.com^$important
+@@||photo-tmdb.com^$important
+@@||cf.8ktvworldiscord.xyz^$important
+@@||atomapi.com^$important
+@@||sslwonders.com^$important
+@@||assets-prod-a230.s3.serverwild.com^$important
+@@||image.tmdb.org^$important
