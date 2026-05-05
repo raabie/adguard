@@ -56,3 +56,5 @@
 @@||xp-cdn-lb.itunes-apple.com.akadns.net^$ctag=user_child|device_tv
 @@||mzstatic.com^$ctag=user_child|device_tv
 @@||ca.iadsdk.apple.com^$ctag=user_child|device_tv
+@@||lb._dns-sd._udp.0.9.10.10.in-addr.arpa^$ctag=user_child|device_tv
+@@||e3528.dscg.akamaiedge.net^$ctag=user_child|device_tv
