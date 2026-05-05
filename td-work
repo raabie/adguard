@@ -2,3 +2,5 @@
 @@||outlook.office365.com^$client=10.10.2.125
 @@||myteam.td.com^$client=10.10.2.125
 @@||collaborate.td.com^$client=10.10.2.125
+@@||outlook.office.com^$client=10.10.2.125
+@@||us-api.asm.skype.com^$client=10.10.2.125
