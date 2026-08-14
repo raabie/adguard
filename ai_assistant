@@ -1,1 +1,43 @@
 ||gemini.google.com^$ctag=user_child
+! ===== Google Gemini Core Domains =====
+||gemini.google.com^
+||gemini-ai.google.com^
+||gemini.googleapis.com^
+||generativelanguage.googleapis.com^
+! ===== Gemini API / Model Endpoints =====
+||ai.google.dev^
+||aistudio.google.com^
+||aistudio-pa.clients6.google.com^
+||aistudio-pa.googleapis.com^
+! ===== Gemini Web UI Assets =====
+||content-gemini-pa.googleapis.com^
+||gemini-pa.googleapis.com^
+||gemini-content-pa.googleapis.com^
+! ===== Google AI Search / Gemini in Search =====
+||search-generative-experience.google.com^
+||sge-pa.googleapis.com^
+||sgecontent-pa.googleapis.com^
+! ===== Gemini Extensions / Workspace AI =====
+||workspace-ai.google.com^
+||workspace-gemini-pa.googleapis.com^
+||chatgpt-for-gmail.google.com^
+||gemini-for-gmail-pa.googleapis.com^
+! ===== Gemini Mobile App =====
+||gemini-mobile-pa.googleapis.com^
+||gemini-android-pa.googleapis.com^
+! ===== Google Bard Legacy (redirects to Gemini) =====
+||bard.google.com^
+||bard-pa.googleapis.com^
+! ===== Google AI Experiments / Labs =====
+||labs.google.com^
+||labs-pa.googleapis.com^
+! ===== Google AI Embeddings / Vector APIs =====
+||embedding-pa.googleapis.com^
+||vectorsearch-pa.googleapis.com^
+! ===== Google AI Safety / Evaluation APIs =====
+||evals-pa.googleapis.com^
+||safety-pa.googleapis.com^
+! ===== Misc AI Infrastructure =====
+||ai.googleusercontent.com^
+||ai-studio-pa.googleusercontent.com^
+||gemini-pa.googleusercontent.com^
