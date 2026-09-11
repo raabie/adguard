@@ -7,11 +7,11 @@
 #||us-east1-aws.api.sc-gw.com^$ctag=user_child
 
 
-#@@||us-east4-gcp.api.snapchat.com^$client=10.10.6.61|192.168.5.3|10.10.6.244|192.168.5.2
 #@@||gcp.api.snapchat.com^$client=10.10.6.61|192.168.5.3|10.10.6.244|192.168.5.2
 #@@||bolt-gcdn.sc-cdn.net^$clientp=10.10.6.61|192.168.5.3|10.10.6.244|192.168.5.2
 
 @@||cf-st.sc-cdn.net^$client=10.10.6.61|192.168.5.3|10.10.6.244|192.168.5.2
+@@||us-east4-gcp.api.snapchat.com^$client=10.10.6.61|192.168.5.3|10.10.6.244|192.168.5.2
 
 @@||aws-proxy-gcp.api.snapchat.com^$client=10.10.6.61|192.168.5.3|10.10.6.244|192.168.5.2
 @@||aws.duplex.sc-gw.com^$client=10.10.6.61|192.168.5.3|10.10.6.244|192.168.5.2
