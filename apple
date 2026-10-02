@@ -44,7 +44,6 @@
 @@||cf.iadsdk.apple.com^$ctag=user_child|device_tv
 @@||ca.iadsdk.apple.com^$ctag=user_child|device_tv
 @@||h3.apis.apple.map.fastly.net^$ctag=user_child|device_tv
-@@||apple-relay.fastly-edge.com^$ctag=user_child|device_tv
 @@||h3.media.apple.map.fastly.net^$ctag=user_child|device_tv
 @@||xp.itunes-apple.com.akadns.net^$ctag=user_child|device_tv
 @@||iadsdk.apple.com^$ctag=user_child|device_tv
