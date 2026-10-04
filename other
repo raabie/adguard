@@ -1203,3 +1203,16 @@
 @@||session.prod.bugsnag.alexa-mobile.amazon.dev^$important
 @@||event.prod.bugsnag.alexa-mobile.amazon.dev^$important
 @@||canva.com^$important
+@@||static.zohocdn.com^$important
+@@||js.zohostatic.com^$important
+@@||img.zohostatic.com^$important
+@@||www.zohowebstatic.com^$important
+@@||accounts.zohocloud.ca^$important
+@@||webfonts.zohostatic.com^$important
+@@||accounts.zohocloud.net^$important
+@@||go-updater.brave.com^$important
+@@||updates.bravesoftware.com^$important
+@@||downloads.zohocdn.com^$important
+@@||zs-in1-lc3.zoho.in^$important
+@@||mail.zoho.com^$important
+
